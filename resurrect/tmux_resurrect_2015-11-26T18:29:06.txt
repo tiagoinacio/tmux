@@ -1,0 +1,9 @@
+pane	0	1	:bf-smx-http-sports-highlights	0	:#-	1	:/Users/tiagoinacio/Work/betfair/fabric/deploy/bf-smx-http-sports-highlights/lib	1	nvim	:nvim .
+pane	0	2	:fabric	0	:#	1	:/Users/tiagoinacio/Work/betfair/fabric	1	node	:node bin/fabric.js run deploy/bf-smx-http-sports-highlights/target/bf-smx-http-sports-highlights-v1/
+pane	0	3	:bash	0	: 	1	:/Users/tiagoinacio/.vim	1	bash	:
+pane	0	4	:bash	1	:*	1	:/Users/tiagoinacio/.tmux	1	bash	:
+window	0	1	0	:#-	cdbd,158x38,0,0,0
+window	0	2	0	:#	cdbe,158x38,0,0,1
+window	0	3	0	: 	cdbf,158x38,0,0,2
+window	0	4	1	:*	cdc0,158x38,0,0,3
+state	0	
