@@ -1,9 +1,0 @@
-pane	0	1	:bf-smx-http-sports-highlights	1	:*	1	:/Users/tiagoinacio/Work/betfair/fabric/deploy/bf-smx-http-sports-highlights/lib	1	nvim	:nvim lib/aggregator-helper.js lib/cache-config.json lib/index.js lib/old-sports-highlights-helper.js lib/sports-highlights-helper.js
-pane	0	2	:fabric	0	:-	1	:/Users/tiagoinacio/Work/betfair/fabric	1	bash	:
-pane	0	3	:grunt:build	0	: 	1	:/Users/tiagoinacio/Work/betfair/fabric/deploy/bf-smx-http-sports-highlights	1	bash	:
-pane	0	4	:bf-smx-static-client	0	: 	1	:/Users/tiagoinacio/Work/betfair/bf-smx-static-client/mobile-web	1	bash	:
-window	0	1	1	:*	cdbe,158x38,0,0,1
-window	0	2	0	:-	cdbf,158x38,0,0,2
-window	0	3	0	: 	cdc0,158x38,0,0,3
-window	0	4	0	: 	cdc1,158x38,0,0,4
-state	0	0
