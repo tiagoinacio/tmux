@@ -1,0 +1,10 @@
+pane	0	1	:vim	1	:*	1	:/Users/tiagoinacio/.vim	1	vim	:vim
+pane	0	2	:bash	0	:#-	1	:/Users/tiagoinacio/Work/betfair/paddypower/ppsms-static-client	0	node	:npm   
+pane	0	2	:bash	0	:#-	2	:/Users/tiagoinacio/Work/betfair/paddypower/ppsms-static-client	0	bash	:
+pane	0	2	:bash	0	:#-	3	:/Users/tiagoinacio/Work/betfair/paddypower/ppsms-static-client	0	node	:npm   
+pane	0	2	:bash	0	:#-	4	:/Users/tiagoinacio/Work/betfair/paddypower/ppsms-static-client	1	bash	:
+pane	0	3	:vim	0	:	1	:/Users/tiagoinacio/Work/betfair/paddypower/ppsms-static-client	1	vim	:vim
+window	0	1	1	:*	d03d,178x48,0,0,0
+window	0	2	0	:#-	1082,178x48,0,0[178x24,0,0{89x24,0,0,1,88x24,90,0,4},178x23,0,25{89x23,0,25,3,88x23,90,25,6}]
+window	0	3	0	:	d042,178x48,0,0,5
+state	0	
